@@ -1,0 +1,12 @@
+{
+    "name": "phpcheck/img-check",
+    "authors": [
+        {
+            "name": "oscar",
+            "email": "13298439966@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
