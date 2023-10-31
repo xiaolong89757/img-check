@@ -14,7 +14,7 @@ class check
     {
         $list = $this->getDir($this->path);
         foreach ($list as $item) {
-            $res = $this->check($item);
+            $this->check($item);
         }
     }
 
